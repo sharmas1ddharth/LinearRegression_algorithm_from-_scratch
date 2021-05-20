@@ -1,4 +1,6 @@
-# LinearRegression_algorithm_from _scratch
+# LinearRegression_algorithm_from _scratch <img src="https://img.icons8.com/material-two-tone/32/000000/graph.png"/>
+
+<img src="https://socialify.git.ci/sharmas1ddharth/LinearRegression_algorithm_from_scratch/image?font=KoHo&forks=1&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Light" width="900">
 
 ## Overview
 In the code I'm using a small dataset of student test scores and the amount of hours they studied. So, the linear regression shows some relationship and I created this to understand how it works.
